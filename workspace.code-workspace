@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.formatting.provider": "black",
+		"[python]": {
+			"editor.formatOnSave": true,
+		},
+		"mypy.runUsingActiveInterpreter": true,
+	}
+}
